@@ -1,0 +1,7 @@
+*.onnx
+*.pt
+__pycache__/
+*.pyc
+.env
+data/videos/*.mp4
+models/weights/
