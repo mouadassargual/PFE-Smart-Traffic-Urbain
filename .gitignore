@@ -5,3 +5,4 @@ __pycache__/
 .env
 data/videos/*.mp4
 models/weights/
+/dataset_v2
