@@ -1,8 +1,24 @@
+# Modèles & poids
 *.onnx
 *.pt
+models/weights/
+
+# Python
 __pycache__/
 *.pyc
 .env
-data/videos/*.mp4
-models/weights/
+
+# Vidéos (trop lourdes)
+*.mp4
+*.MP4
+Videos Drone/
+data/videos/
+
+# Archives & datasets bruts
+*.zip
 /dataset_v2
+/dataset_v1
+
+# macOS
+.DS_Store
+**/.DS_Store
