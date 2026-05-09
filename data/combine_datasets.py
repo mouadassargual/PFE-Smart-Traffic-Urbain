@@ -1,3 +1,4 @@
+# Dataset v2 — VisDrone FILTRÉ (>= 5 véhicules, scènes de route uniquement)
 import os, shutil, random
 from pathlib import Path
 
@@ -78,12 +79,14 @@ def copy_source(images_dir, labels_dir,
     print(f'✅ {prefix}: {total} images copiées')
     return total
 
-# ── SOURCE 1 : VisDrone ───────────────────────
+# ── SOURCE 1 : VisDrone FILTRÉ ──────────────────
+# v2 : 5964 images (route/intersection, >= 5 véhicules)
+# vs v1 : 6471 images (incluait places piétonnes, parkings)
 copy_source(
-    f'{BASE}/visdrone_yolo/images',
-    f'{BASE}/visdrone_yolo/labels',
+    f'{BASE}/visdrone_yolo_filtered/images',
+    f'{BASE}/visdrone_yolo_filtered/labels',
     'visdrone'
-    # Pas de remapping (déjà correct)
+    # Pas de remapping (classes déjà correctes)
 )
 
 # ── SOURCE 2 : Emergency Vehicles ────────────
