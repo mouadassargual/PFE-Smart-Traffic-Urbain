@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (1340 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="30.4200690" minlon="-9.5926360" maxlat="30.4210030" maxlon="-9.5916060"/>
+ <node id="606944125" visible="true" version="6" changeset="75242943" timestamp="2019-10-03T15:58:06Z" user="PrincipeReal" uid="9625540" lat="30.4217480" lon="-9.5928743"/>
+ <node id="1054617703" visible="true" version="2" changeset="6875428" timestamp="2011-01-05T19:42:38Z" user="aighes" uid="110639" lat="30.4188580" lon="-9.5943565"/>
+ <node id="1054617711" visible="true" version="6" changeset="75229654" timestamp="2019-10-03T11:58:36Z" user="Pueyrredon" uid="9535029" lat="30.4197727" lon="-9.5937520"/>
+ <node id="1054617726" visible="true" version="3" changeset="67491999" timestamp="2019-02-23T11:55:17Z" user="Aboudrar Said" uid="2209556" lat="30.4202870" lon="-9.5922578"/>
+ <node id="1054617740" visible="true" version="3" changeset="67491999" timestamp="2019-02-23T11:55:17Z" user="Aboudrar Said" uid="2209556" lat="30.4187953" lon="-9.5912323"/>
+ <node id="1054617745" visible="true" version="6" changeset="74723007" timestamp="2019-09-20T15:08:09Z" user="Snowdonian" uid="10074572" lat="30.4219544" lon="-9.5857637"/>
+ <node id="1054617752" visible="true" version="10" changeset="75227449" timestamp="2019-10-03T11:22:10Z" user="Pueyrredon" uid="9535029" lat="30.4187643" lon="-9.5909451">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1054617755" visible="true" version="7" changeset="75225760" timestamp="2019-10-03T10:58:26Z" user="Pueyrredon" uid="9535029" lat="30.4207881" lon="-9.5886987"/>
+ <node id="1054617758" visible="true" version="3" changeset="67491999" timestamp="2019-02-23T11:55:17Z" user="Aboudrar Said" uid="2209556" lat="30.4186490" lon="-9.5943247"/>
+ <node id="1054617769" visible="true" version="7" changeset="75227449" timestamp="2019-10-03T11:22:10Z" user="Pueyrredon" uid="9535029" lat="30.4205198" lon="-9.5920401"/>
+ <node id="1054617777" visible="true" version="3" changeset="67491999" timestamp="2019-02-23T11:55:17Z" user="Aboudrar Said" uid="2209556" lat="30.4194013" lon="-9.5938524"/>
+ <node id="1054617797" visible="true" version="5" changeset="75225760" timestamp="2019-10-03T10:58:26Z" user="Pueyrredon" uid="9535029" lat="30.4199416" lon="-9.5934168"/>
+ <node id="1054617802" visible="true" version="8" changeset="75225760" timestamp="2019-10-03T10:58:26Z" user="Pueyrredon" uid="9535029" lat="30.4208587" lon="-9.5911060"/>
+ <node id="1054617812" visible="true" version="7" changeset="75225760" timestamp="2019-10-03T10:58:26Z" user="Pueyrredon" uid="9535029" lat="30.4207407" lon="-9.5889334"/>
+ <node id="1054617837" visible="true" version="7" changeset="75225760" timestamp="2019-10-03T10:58:26Z" user="Pueyrredon" uid="9535029" lat="30.4208598" lon="-9.5905642"/>
+ <node id="1054617841" visible="true" version="3" changeset="67491999" timestamp="2019-02-23T11:55:17Z" user="Aboudrar Said" uid="2209556" lat="30.4196744" lon="-9.5935915"/>
+ <node id="1054617865" visible="true" version="3" changeset="67491999" timestamp="2019-02-23T11:55:17Z" user="Aboudrar Said" uid="2209556" lat="30.4179927" lon="-9.5935055"/>
+ <node id="1084038069" visible="true" version="3" changeset="75242943" timestamp="2019-10-03T15:58:06Z" user="PrincipeReal" uid="9625540" lat="30.4218567" lon="-9.5930017"/>
+ <node id="1096358470" visible="true" version="6" changeset="169125607" timestamp="2025-07-18T19:31:13Z" user="OSMCowboy" uid="18256099" lat="30.4186512" lon="-9.5945322"/>
+ <node id="1535842517" visible="true" version="2" changeset="67491809" timestamp="2019-02-23T11:46:24Z" user="Aboudrar Said" uid="2209556" lat="30.4200325" lon="-9.5919128"/>
+ <node id="1535842525" visible="true" version="2" changeset="67491809" timestamp="2019-02-23T11:46:24Z" user="Aboudrar Said" uid="2209556" lat="30.4191750" lon="-9.5927858"/>
+ <node id="1535842529" visible="true" version="2" changeset="67491809" timestamp="2019-02-23T11:46:25Z" user="Aboudrar Said" uid="2209556" lat="30.4192773" lon="-9.5929206"/>
+ <node id="1535842531" visible="true" version="2" changeset="67491809" timestamp="2019-02-23T11:46:25Z" user="Aboudrar Said" uid="2209556" lat="30.4193886" lon="-9.5925756"/>
+ <node id="1535849003" visible="true" version="1" changeset="10061645" timestamp="2011-12-07T22:27:27Z" user="jutezak" uid="121724" lat="30.4201397" lon="-9.5907722"/>
+ <node id="1535849005" visible="true" version="2" changeset="67491809" timestamp="2019-02-23T11:46:25Z" user="Aboudrar Said" uid="2209556" lat="30.4195577" lon="-9.5911169"/>
+ <node id="1535849008" visible="true" version="2" changeset="67491809" timestamp="2019-02-23T11:46:25Z" user="Aboudrar Said" uid="2209556" lat="30.4196021" lon="-9.5912391"/>
+ <node id="1535849011" visible="true" version="2" changeset="67491809" timestamp="2019-02-23T11:46:25Z" user="Aboudrar Said" uid="2209556" lat="30.4198841" lon="-9.5914159"/>
+ <node id="1535849018" visible="true" version="2" changeset="67491809" timestamp="2019-02-23T11:46:25Z" user="Aboudrar Said" uid="2209556" lat="30.4200650" lon="-9.5914703"/>
+ <node id="1535849022" visible="true" version="2" changeset="67491809" timestamp="2019-02-23T11:46:25Z" user="Aboudrar Said" uid="2209556" lat="30.4200580" lon="-9.5915584"/>
+ <node id="1535849023" visible="true" version="2" changeset="67491809" timestamp="2019-02-23T11:46:25Z" user="Aboudrar Said" uid="2209556" lat="30.4204681" lon="-9.5908674"/>
+ <node id="1535849025" visible="true" version="2" changeset="67491809" timestamp="2019-02-23T11:46:25Z" user="Aboudrar Said" uid="2209556" lat="30.4200539" lon="-9.5916508"/>
+ <node id="1535849026" visible="true" version="2" changeset="67491809" timestamp="2019-02-23T11:46:25Z" user="Aboudrar Said" uid="2209556" lat="30.4203340" lon="-9.5907937"/>
+ <node id="1535849028" visible="true" version="2" changeset="75227449" timestamp="2019-10-03T11:22:10Z" user="Pueyrredon" uid="9535029" lat="30.4200306" lon="-9.5917243"/>
+ <node id="1535849031" visible="true" version="2" changeset="67491809" timestamp="2019-02-23T11:46:25Z" user="Aboudrar Said" uid="2209556" lat="30.4197767" lon="-9.5909036"/>
+ <node id="1535849038" visible="true" version="2" changeset="67491809" timestamp="2019-02-23T11:46:25Z" user="Aboudrar Said" uid="2209556" lat="30.4205699" lon="-9.5909935"/>
+ <node id="1535849051" visible="true" version="2" changeset="67491809" timestamp="2019-02-23T11:46:25Z" user="Aboudrar Said" uid="2209556" lat="30.4197789" lon="-9.5913717"/>
+ <node id="1535849053" visible="true" version="2" changeset="67491809" timestamp="2019-02-23T11:46:25Z" user="Aboudrar Said" uid="2209556" lat="30.4205603" lon="-9.5911906"/>
+ <node id="1846844227" visible="true" version="2" changeset="67491999" timestamp="2019-02-23T11:55:17Z" user="Aboudrar Said" uid="2209556" lat="30.4214575" lon="-9.5862939"/>
+ <node id="1846844229" visible="true" version="2" changeset="67491999" timestamp="2019-02-23T11:55:17Z" user="Aboudrar Said" uid="2209556" lat="30.4207798" lon="-9.5859454"/>
+ <node id="1846844231" visible="true" version="2" changeset="67491999" timestamp="2019-02-23T11:55:17Z" user="Aboudrar Said" uid="2209556" lat="30.4207434" lon="-9.5910790"/>
+ <node id="1846844233" visible="true" version="2" changeset="67491999" timestamp="2019-02-23T11:55:17Z" user="Aboudrar Said" uid="2209556" lat="30.4206335" lon="-9.5915055"/>
+ <node id="1846844234" visible="true" version="2" changeset="67491999" timestamp="2019-02-23T11:55:17Z" user="Aboudrar Said" uid="2209556" lat="30.4207041" lon="-9.5885336"/>
+ <node id="1846844235" visible="true" version="2" changeset="67491999" timestamp="2019-02-23T11:55:17Z" user="Aboudrar Said" uid="2209556" lat="30.4206092" lon="-9.5889426"/>
+ <node id="1846844236" visible="true" version="2" changeset="67491999" timestamp="2019-02-23T11:55:17Z" user="Aboudrar Said" uid="2209556" lat="30.4189045" lon="-9.5908081"/>
+ <node id="1846844237" visible="true" version="2" changeset="67491999" timestamp="2019-02-23T11:55:17Z" user="Aboudrar Said" uid="2209556" lat="30.4205144" lon="-9.5917174"/>
+ <node id="1910170678" visible="true" version="5" changeset="75225760" timestamp="2019-10-03T10:58:26Z" user="Pueyrredon" uid="9535029" lat="30.4207546" lon="-9.5914829"/>
+ <node id="5150023496" visible="true" version="3" changeset="75229654" timestamp="2019-10-03T11:58:36Z" user="Pueyrredon" uid="9535029" lat="30.4191748" lon="-9.5911865"/>
+ <node id="5150023506" visible="true" version="3" changeset="75229654" timestamp="2019-10-03T11:58:36Z" user="Pueyrredon" uid="9535029" lat="30.4194223" lon="-9.5913424"/>
+ <node id="5153644284" visible="true" version="3" changeset="75242943" timestamp="2019-10-03T15:58:06Z" user="PrincipeReal" uid="9625540" lat="30.4219856" lon="-9.5931921"/>
+ <node id="5654008297" visible="true" version="2" changeset="75227449" timestamp="2019-10-03T11:22:10Z" user="Pueyrredon" uid="9535029" lat="30.4204128" lon="-9.5919717">
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="5654008298" visible="true" version="2" changeset="75225760" timestamp="2019-10-03T10:58:26Z" user="Pueyrredon" uid="9535029" lat="30.4205695" lon="-9.5919321">
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="5654008299" visible="true" version="2" changeset="75227449" timestamp="2019-10-03T11:22:10Z" user="Pueyrredon" uid="9535029" lat="30.4205753" lon="-9.5920703">
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="5654008300" visible="true" version="2" changeset="75225760" timestamp="2019-10-03T10:58:26Z" user="Pueyrredon" uid="9535029" lat="30.4204678" lon="-9.5921682">
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="5904209963" visible="true" version="3" changeset="74723007" timestamp="2019-09-20T15:08:09Z" user="Snowdonian" uid="10074572" lat="30.4218289" lon="-9.5858469"/>
+ <node id="5918608236" visible="true" version="3" changeset="75242943" timestamp="2019-10-03T15:58:06Z" user="PrincipeReal" uid="9625540" lat="30.4216005" lon="-9.5927328"/>
+ <node id="6297306598" visible="true" version="1" changeset="67491809" timestamp="2019-02-23T11:46:21Z" user="Aboudrar Said" uid="2209556" lat="30.4196829" lon="-9.5922748"/>
+ <node id="6297306600" visible="true" version="2" changeset="75225760" timestamp="2019-10-03T10:58:26Z" user="Pueyrredon" uid="9535029" lat="30.4195719" lon="-9.5939049"/>
+ <node id="6297306601" visible="true" version="1" changeset="67491809" timestamp="2019-02-23T11:46:21Z" user="Aboudrar Said" uid="2209556" lat="30.4192845" lon="-9.5926850"/>
+ <node id="6297306608" visible="true" version="1" changeset="67491809" timestamp="2019-02-23T11:46:21Z" user="Aboudrar Said" uid="2209556" lat="30.4195726" lon="-9.5923973"/>
+ <node id="6297306612" visible="true" version="2" changeset="75227449" timestamp="2019-10-03T11:22:10Z" user="Pueyrredon" uid="9535029" lat="30.4201405" lon="-9.5917940"/>
+ <node id="6297306613" visible="true" version="1" changeset="67491809" timestamp="2019-02-23T11:46:21Z" user="Aboudrar Said" uid="2209556" lat="30.4205557" lon="-9.5916478"/>
+ <node id="6297306614" visible="true" version="2" changeset="75093668" timestamp="2019-09-30T11:06:41Z" user="Pueyrredon" uid="9535029" lat="30.4208425" lon="-9.5884929"/>
+ <node id="6297306635" visible="true" version="1" changeset="67491809" timestamp="2019-02-23T11:46:21Z" user="Aboudrar Said" uid="2209556" lat="30.4199416" lon="-9.5908083"/>
+ <node id="6297306636" visible="true" version="2" changeset="75227449" timestamp="2019-10-03T11:22:10Z" user="Pueyrredon" uid="9535029" lat="30.4197959" lon="-9.5915821"/>
+ <node id="6297306637" visible="true" version="1" changeset="67491809" timestamp="2019-02-23T11:46:21Z" user="Aboudrar Said" uid="2209556" lat="30.4198435" lon="-9.5914047"/>
+ <node id="6297306639" visible="true" version="1" changeset="67491809" timestamp="2019-02-23T11:46:21Z" user="Aboudrar Said" uid="2209556" lat="30.4199315" lon="-9.5914267"/>
+ <node id="6297306640" visible="true" version="1" changeset="67491809" timestamp="2019-02-23T11:46:21Z" user="Aboudrar Said" uid="2209556" lat="30.4203905" lon="-9.5908248"/>
+ <node id="6297306671" visible="true" version="1" changeset="67491809" timestamp="2019-02-23T11:46:22Z" user="Aboudrar Said" uid="2209556" lat="30.4196548" lon="-9.5910001"/>
+ <node id="6297306675" visible="true" version="2" changeset="75225760" timestamp="2019-10-03T10:58:26Z" user="Pueyrredon" uid="9535029" lat="30.4206147" lon="-9.5918168"/>
+ <node id="6297306677" visible="true" version="2" changeset="75225760" timestamp="2019-10-03T10:58:26Z" user="Pueyrredon" uid="9535029" lat="30.4208436" lon="-9.5902786"/>
+ <node id="6297306683" visible="true" version="2" changeset="75093668" timestamp="2019-09-30T11:06:41Z" user="Pueyrredon" uid="9535029" lat="30.4211096" lon="-9.5876668"/>
+ <node id="6297306697" visible="true" version="2" changeset="75093668" timestamp="2019-09-30T11:06:41Z" user="Pueyrredon" uid="9535029" lat="30.4208662" lon="-9.5884111"/>
+ <node id="6297306726" visible="true" version="2" changeset="75227449" timestamp="2019-10-03T11:22:10Z" user="Pueyrredon" uid="9535029" lat="30.4189690" lon="-9.5910645"/>
+ <node id="6297306739" visible="true" version="2" changeset="75225760" timestamp="2019-10-03T10:58:26Z" user="Pueyrredon" uid="9535029" lat="30.4208656" lon="-9.5906313"/>
+ <node id="6297306740" visible="true" version="2" changeset="75225760" timestamp="2019-10-03T10:58:26Z" user="Pueyrredon" uid="9535029" lat="30.4198472" lon="-9.5936093"/>
+ <node id="6297323397" visible="true" version="1" changeset="67491999" timestamp="2019-02-23T11:55:16Z" user="Aboudrar Said" uid="2209556" lat="30.4212380" lon="-9.5869231"/>
+ <node id="6297323398" visible="true" version="1" changeset="67491999" timestamp="2019-02-23T11:55:16Z" user="Aboudrar Said" uid="2209556" lat="30.4210449" lon="-9.5875454"/>
+ <node id="6297323399" visible="true" version="1" changeset="67491999" timestamp="2019-02-23T11:55:16Z" user="Aboudrar Said" uid="2209556" lat="30.4206227" lon="-9.5894645"/>
+ <node id="6297323400" visible="true" version="1" changeset="67491999" timestamp="2019-02-23T11:55:16Z" user="Aboudrar Said" uid="2209556" lat="30.4207523" lon="-9.5905173"/>
+ <node id="6297323401" visible="true" version="1" changeset="67491999" timestamp="2019-02-23T11:55:16Z" user="Aboudrar Said" uid="2209556" lat="30.4207153" lon="-9.5900372"/>
+ <node id="6297323402" visible="true" version="1" changeset="67491999" timestamp="2019-02-23T11:55:16Z" user="Aboudrar Said" uid="2209556" lat="30.4203278" lon="-9.5917873"/>
+ <node id="6297323403" visible="true" version="1" changeset="67491999" timestamp="2019-02-23T11:55:16Z" user="Aboudrar Said" uid="2209556" lat="30.4195553" lon="-9.5912019"/>
+ <node id="6297323404" visible="true" version="1" changeset="67491999" timestamp="2019-02-23T11:55:16Z" user="Aboudrar Said" uid="2209556" lat="30.4195426" lon="-9.5913166"/>
+ <node id="6297323405" visible="true" version="1" changeset="67491999" timestamp="2019-02-23T11:55:16Z" user="Aboudrar Said" uid="2209556" lat="30.4198919" lon="-9.5915325"/>
+ <node id="6297323407" visible="true" version="1" changeset="67491999" timestamp="2019-02-23T11:55:16Z" user="Aboudrar Said" uid="2209556" lat="30.4195530" lon="-9.5910772"/>
+ <node id="6297323408" visible="true" version="1" changeset="67491999" timestamp="2019-02-23T11:55:16Z" user="Aboudrar Said" uid="2209556" lat="30.4193130" lon="-9.5908599"/>
+ <node id="6297323409" visible="true" version="1" changeset="67491999" timestamp="2019-02-23T11:55:16Z" user="Aboudrar Said" uid="2209556" lat="30.4191835" lon="-9.5908720"/>
+ <node id="6297323410" visible="true" version="1" changeset="67491999" timestamp="2019-02-23T11:55:16Z" user="Aboudrar Said" uid="2209556" lat="30.4194582" lon="-9.5909089"/>
+ <node id="6297323411" visible="true" version="1" changeset="67491999" timestamp="2019-02-23T11:55:16Z" user="Aboudrar Said" uid="2209556" lat="30.4189794" lon="-9.5909572"/>
+ <node id="6297323412" visible="true" version="1" changeset="67491999" timestamp="2019-02-23T11:55:16Z" user="Aboudrar Said" uid="2209556" lat="30.4188730" lon="-9.5911945"/>
+ <node id="6297323413" visible="true" version="1" changeset="67491999" timestamp="2019-02-23T11:55:16Z" user="Aboudrar Said" uid="2209556" lat="30.4179605" lon="-9.5933256"/>
+ <node id="6297323414" visible="true" version="1" changeset="67491999" timestamp="2019-02-23T11:55:16Z" user="Aboudrar Said" uid="2209556" lat="30.4183329" lon="-9.5923459"/>
+ <node id="6297323415" visible="true" version="1" changeset="67491999" timestamp="2019-02-23T11:55:16Z" user="Aboudrar Said" uid="2209556" lat="30.4197924" lon="-9.5933913"/>
+ <node id="6297323416" visible="true" version="1" changeset="67491999" timestamp="2019-02-23T11:55:16Z" user="Aboudrar Said" uid="2209556" lat="30.4202862" lon="-9.5921722"/>
+ <node id="6297323417" visible="true" version="1" changeset="67491999" timestamp="2019-02-23T11:55:17Z" user="Aboudrar Said" uid="2209556" lat="30.4201243" lon="-9.5919482"/>
+ <node id="6297323418" visible="true" version="1" changeset="67491999" timestamp="2019-02-23T11:55:17Z" user="Aboudrar Said" uid="2209556" lat="30.4200977" lon="-9.5919710"/>
+ <node id="6297323419" visible="true" version="1" changeset="67491999" timestamp="2019-02-23T11:55:17Z" user="Aboudrar Said" uid="2209556" lat="30.4202330" lon="-9.5920676"/>
+ <node id="6297323420" visible="true" version="1" changeset="67491999" timestamp="2019-02-23T11:55:17Z" user="Aboudrar Said" uid="2209556" lat="30.4201729" lon="-9.5919576"/>
+ <node id="6297323421" visible="true" version="1" changeset="67491999" timestamp="2019-02-23T11:55:17Z" user="Aboudrar Said" uid="2209556" lat="30.4200063" lon="-9.5918651"/>
+ <node id="6297323422" visible="true" version="1" changeset="67491999" timestamp="2019-02-23T11:55:17Z" user="Aboudrar Said" uid="2209556" lat="30.4200202" lon="-9.5917927"/>
+ <node id="6297323423" visible="true" version="1" changeset="67491999" timestamp="2019-02-23T11:55:17Z" user="Aboudrar Said" uid="2209556" lat="30.4197010" lon="-9.5916250"/>
+ <node id="6297323424" visible="true" version="1" changeset="67491999" timestamp="2019-02-23T11:55:17Z" user="Aboudrar Said" uid="2209556" lat="30.4189609" lon="-9.5911691"/>
+ <node id="6689844923" visible="true" version="1" changeset="73086886" timestamp="2019-08-06T22:48:20Z" user="Aboudrar Said" uid="2209556" lat="30.4208413" lon="-9.5926000"/>
+ <node id="6689844924" visible="true" version="1" changeset="73086886" timestamp="2019-08-06T22:48:20Z" user="Aboudrar Said" uid="2209556" lat="30.4207997" lon="-9.5925477"/>
+ <node id="6689844925" visible="true" version="1" changeset="73086886" timestamp="2019-08-06T22:48:20Z" user="Aboudrar Said" uid="2209556" lat="30.4207476" lon="-9.5925477"/>
+ <node id="6689844926" visible="true" version="1" changeset="73086886" timestamp="2019-08-06T22:48:20Z" user="Aboudrar Said" uid="2209556" lat="30.4207210" lon="-9.5925035"/>
+ <node id="6689844927" visible="true" version="1" changeset="73086886" timestamp="2019-08-06T22:48:20Z" user="Aboudrar Said" uid="2209556" lat="30.4206690" lon="-9.5925061"/>
+ <node id="6689844928" visible="true" version="1" changeset="73086886" timestamp="2019-08-06T22:48:20Z" user="Aboudrar Said" uid="2209556" lat="30.4206424" lon="-9.5924418"/>
+ <node id="6689844929" visible="true" version="1" changeset="73086886" timestamp="2019-08-06T22:48:20Z" user="Aboudrar Said" uid="2209556" lat="30.4206702" lon="-9.5923948"/>
+ <node id="6689844930" visible="true" version="1" changeset="73086886" timestamp="2019-08-06T22:48:20Z" user="Aboudrar Said" uid="2209556" lat="30.4207268" lon="-9.5923935"/>
+ <node id="6689844931" visible="true" version="1" changeset="73086886" timestamp="2019-08-06T22:48:20Z" user="Aboudrar Said" uid="2209556" lat="30.4207511" lon="-9.5924445"/>
+ <node id="6689844932" visible="true" version="1" changeset="73086886" timestamp="2019-08-06T22:48:20Z" user="Aboudrar Said" uid="2209556" lat="30.4207904" lon="-9.5924364"/>
+ <node id="6689844933" visible="true" version="1" changeset="73086886" timestamp="2019-08-06T22:48:20Z" user="Aboudrar Said" uid="2209556" lat="30.4208219" lon="-9.5924877"/>
+ <node id="6689844934" visible="true" version="1" changeset="73086886" timestamp="2019-08-06T22:48:20Z" user="Aboudrar Said" uid="2209556" lat="30.4208830" lon="-9.5924870"/>
+ <node id="6689844935" visible="true" version="1" changeset="73086886" timestamp="2019-08-06T22:48:20Z" user="Aboudrar Said" uid="2209556" lat="30.4209159" lon="-9.5925460"/>
+ <node id="6689844936" visible="true" version="1" changeset="73086886" timestamp="2019-08-06T22:48:20Z" user="Aboudrar Said" uid="2209556" lat="30.4208942" lon="-9.5925973"/>
+ <node id="6689844937" visible="true" version="1" changeset="73086886" timestamp="2019-08-06T22:48:20Z" user="Aboudrar Said" uid="2209556" lat="30.4207731" lon="-9.5929040"/>
+ <node id="6689844938" visible="true" version="1" changeset="73086886" timestamp="2019-08-06T22:48:20Z" user="Aboudrar Said" uid="2209556" lat="30.4209107" lon="-9.5925755"/>
+ <node id="6689844939" visible="true" version="1" changeset="73086886" timestamp="2019-08-06T22:48:20Z" user="Aboudrar Said" uid="2209556" lat="30.4209662" lon="-9.5926067"/>
+ <node id="6689844940" visible="true" version="1" changeset="73086886" timestamp="2019-08-06T22:48:20Z" user="Aboudrar Said" uid="2209556" lat="30.4208286" lon="-9.5929353"/>
+ <node id="6695501304" visible="true" version="1" changeset="73165636" timestamp="2019-08-08T17:45:04Z" user="Aboudrar Said" uid="2209556" lat="30.4204036" lon="-9.5925155"/>
+ <node id="6695501305" visible="true" version="1" changeset="73165636" timestamp="2019-08-08T17:45:04Z" user="Aboudrar Said" uid="2209556" lat="30.4204291" lon="-9.5924592"/>
+ <node id="6695501306" visible="true" version="1" changeset="73165636" timestamp="2019-08-08T17:45:04Z" user="Aboudrar Said" uid="2209556" lat="30.4204776" lon="-9.5924887"/>
+ <node id="6695501307" visible="true" version="1" changeset="73165636" timestamp="2019-08-08T17:45:04Z" user="Aboudrar Said" uid="2209556" lat="30.4204522" lon="-9.5925450"/>
+ <node id="6695501308" visible="true" version="1" changeset="73165636" timestamp="2019-08-08T17:45:04Z" user="Aboudrar Said" uid="2209556" lat="30.4205476" lon="-9.5926771"/>
+ <node id="6695501309" visible="true" version="1" changeset="73165636" timestamp="2019-08-08T17:45:04Z" user="Aboudrar Said" uid="2209556" lat="30.4205244" lon="-9.5927355"/>
+ <node id="6695501310" visible="true" version="1" changeset="73165636" timestamp="2019-08-08T17:45:04Z" user="Aboudrar Said" uid="2209556" lat="30.4204678" lon="-9.5927422"/>
+ <node id="6695501311" visible="true" version="1" changeset="73165636" timestamp="2019-08-08T17:45:04Z" user="Aboudrar Said" uid="2209556" lat="30.4204354" lon="-9.5926905"/>
+ <node id="6695501312" visible="true" version="1" changeset="73165636" timestamp="2019-08-08T17:45:04Z" user="Aboudrar Said" uid="2209556" lat="30.4204660" lon="-9.5926335"/>
+ <node id="6695501313" visible="true" version="1" changeset="73165636" timestamp="2019-08-08T17:45:04Z" user="Aboudrar Said" uid="2209556" lat="30.4204423" lon="-9.5925873"/>
+ <node id="6695501314" visible="true" version="1" changeset="73165636" timestamp="2019-08-08T17:45:04Z" user="Aboudrar Said" uid="2209556" lat="30.4204666" lon="-9.5925363"/>
+ <node id="6695501315" visible="true" version="1" changeset="73165636" timestamp="2019-08-08T17:45:04Z" user="Aboudrar Said" uid="2209556" lat="30.4205059" lon="-9.5925424"/>
+ <node id="6695501316" visible="true" version="1" changeset="73165636" timestamp="2019-08-08T17:45:04Z" user="Aboudrar Said" uid="2209556" lat="30.4205354" lon="-9.5924887"/>
+ <node id="6695501317" visible="true" version="1" changeset="73165636" timestamp="2019-08-08T17:45:04Z" user="Aboudrar Said" uid="2209556" lat="30.4205776" lon="-9.5924900"/>
+ <node id="6695501318" visible="true" version="1" changeset="73165636" timestamp="2019-08-08T17:45:04Z" user="Aboudrar Said" uid="2209556" lat="30.4206054" lon="-9.5925524"/>
+ <node id="6695501319" visible="true" version="1" changeset="73165636" timestamp="2019-08-08T17:45:04Z" user="Aboudrar Said" uid="2209556" lat="30.4205805" lon="-9.5925980"/>
+ <node id="6695501320" visible="true" version="1" changeset="73165636" timestamp="2019-08-08T17:45:04Z" user="Aboudrar Said" uid="2209556" lat="30.4205401" lon="-9.5925987"/>
+ <node id="6695501321" visible="true" version="1" changeset="73165636" timestamp="2019-08-08T17:45:04Z" user="Aboudrar Said" uid="2209556" lat="30.4205250" lon="-9.5926315"/>
+ <node id="6695501322" visible="true" version="1" changeset="73165636" timestamp="2019-08-08T17:45:04Z" user="Aboudrar Said" uid="2209556" lat="30.4205237" lon="-9.5924043"/>
+ <node id="6695501323" visible="true" version="1" changeset="73165636" timestamp="2019-08-08T17:45:04Z" user="Aboudrar Said" uid="2209556" lat="30.4205653" lon="-9.5923144"/>
+ <node id="6695501324" visible="true" version="1" changeset="73165636" timestamp="2019-08-08T17:45:04Z" user="Aboudrar Said" uid="2209556" lat="30.4206470" lon="-9.5923653"/>
+ <node id="6695501325" visible="true" version="1" changeset="73165636" timestamp="2019-08-08T17:45:04Z" user="Aboudrar Said" uid="2209556" lat="30.4206054" lon="-9.5924552"/>
+ <node id="6744940191" visible="true" version="2" changeset="75225760" timestamp="2019-10-03T10:58:26Z" user="Pueyrredon" uid="9535029" lat="30.4208754" lon="-9.5907533"/>
+ <node id="6805819296" visible="true" version="4" changeset="75093668" timestamp="2019-09-30T11:06:41Z" user="Pueyrredon" uid="9535029" lat="30.4214872" lon="-9.5865154"/>
+ <node id="6805819297" visible="true" version="3" changeset="74723755" timestamp="2019-09-20T15:24:05Z" user="Snowdonian" uid="10074572" lat="30.4216720" lon="-9.5859669"/>
+ <node id="6805819298" visible="true" version="4" changeset="75093668" timestamp="2019-09-30T11:06:41Z" user="Pueyrredon" uid="9535029" lat="30.4216003" lon="-9.5861597"/>
+ <node id="6806209610" visible="true" version="3" changeset="75093668" timestamp="2019-09-30T11:06:41Z" user="Pueyrredon" uid="9535029" lat="30.4215436" lon="-9.5863220"/>
+ <node id="6806209611" visible="true" version="2" changeset="75093668" timestamp="2019-09-30T11:06:41Z" user="Pueyrredon" uid="9535029" lat="30.4214224" lon="-9.5867267"/>
+ <node id="6806209612" visible="true" version="2" changeset="75093668" timestamp="2019-09-30T11:06:41Z" user="Pueyrredon" uid="9535029" lat="30.4213542" lon="-9.5869198"/>
+ <node id="6806209613" visible="true" version="2" changeset="75093668" timestamp="2019-09-30T11:06:41Z" user="Pueyrredon" uid="9535029" lat="30.4213299" lon="-9.5869969"/>
+ <node id="6806281771" visible="true" version="2" changeset="74723007" timestamp="2019-09-20T15:08:09Z" user="Snowdonian" uid="10074572" lat="30.4217833" lon="-9.5858744"/>
+ <node id="6806281772" visible="true" version="3" changeset="74723755" timestamp="2019-09-20T15:24:05Z" user="Snowdonian" uid="10074572" lat="30.4216925" lon="-9.5859421"/>
+ <node id="6806281773" visible="true" version="3" changeset="74723755" timestamp="2019-09-20T15:24:05Z" user="Snowdonian" uid="10074572" lat="30.4223655" lon="-9.5855073"/>
+ <node id="6806281774" visible="true" version="3" changeset="74723755" timestamp="2019-09-20T15:24:05Z" user="Snowdonian" uid="10074572" lat="30.4221105" lon="-9.5856657"/>
+ <node id="6806281775" visible="true" version="2" changeset="74723007" timestamp="2019-09-20T15:08:09Z" user="Snowdonian" uid="10074572" lat="30.4217353" lon="-9.5859092"/>
+ <node id="6806281776" visible="true" version="2" changeset="75093668" timestamp="2019-09-30T11:06:41Z" user="Pueyrredon" uid="9535029" lat="30.4215728" lon="-9.5862415"/>
+ <node id="6806281777" visible="true" version="2" changeset="75093668" timestamp="2019-09-30T11:06:41Z" user="Pueyrredon" uid="9535029" lat="30.4216312" lon="-9.5860779"/>
+ <node id="6847067716" visible="true" version="1" changeset="75225760" timestamp="2019-10-03T10:58:26Z" user="Pueyrredon" uid="9535029" lat="30.4207534" lon="-9.5888262"/>
+ <node id="6847067717" visible="true" version="1" changeset="75225760" timestamp="2019-10-03T10:58:26Z" user="Pueyrredon" uid="9535029" lat="30.4207430" lon="-9.5890702"/>
+ <node id="6847067718" visible="true" version="1" changeset="75225760" timestamp="2019-10-03T10:58:26Z" user="Pueyrredon" uid="9535029" lat="30.4208714" lon="-9.5909907"/>
+ <node id="6847067719" visible="true" version="1" changeset="75225760" timestamp="2019-10-03T10:58:26Z" user="Pueyrredon" uid="9535029" lat="30.4208286" lon="-9.5912509"/>
+ <node id="6847067720" visible="true" version="1" changeset="75225760" timestamp="2019-10-03T10:58:26Z" user="Pueyrredon" uid="9535029" lat="30.4203348" lon="-9.5924968"/>
+ <node id="6847067721" visible="true" version="1" changeset="75225760" timestamp="2019-10-03T10:58:26Z" user="Pueyrredon" uid="9535029" lat="30.4201451" lon="-9.5929487"/>
+ <node id="6847194048" visible="true" version="1" changeset="75227449" timestamp="2019-10-03T11:22:10Z" user="Pueyrredon" uid="9535029" lat="30.4214670" lon="-9.5926242"/>
+ <node id="6847268984" visible="true" version="1" changeset="75229824" timestamp="2019-10-03T12:01:54Z" user="Pueyrredon" uid="9535029" lat="30.4210264" lon="-9.5923533"/>
+ <node id="6848088400" visible="true" version="1" changeset="75242943" timestamp="2019-10-03T15:58:06Z" user="PrincipeReal" uid="9625540" lat="30.4219319" lon="-9.5931076"/>
+ <node id="9720146386" visible="true" version="1" changeset="120621899" timestamp="2022-05-06T09:41:30Z" user="Jebel_Hafeet" uid="14728681" lat="30.4202623" lon="-9.5926695"/>
+ <node id="13009712822" visible="true" version="2" changeset="171788956" timestamp="2025-09-11T14:53:23Z" user="LopDesert1" uid="18730051" lat="30.4188476" lon="-9.5944530">
+  <tag k="highway" v="crossing"/>
+ </node>
+ <way id="90838448" visible="true" version="5" changeset="67491999" timestamp="2019-02-23T11:55:17Z" user="Aboudrar Said" uid="2209556">
+  <nd ref="1054617758"/>
+  <nd ref="1054617703"/>
+  <nd ref="1054617777"/>
+  <nd ref="1054617841"/>
+  <nd ref="6297323415"/>
+  <nd ref="1054617726"/>
+  <nd ref="6297323416"/>
+  <nd ref="6297323419"/>
+  <nd ref="6297323420"/>
+  <nd ref="6297323417"/>
+  <nd ref="6297323418"/>
+  <nd ref="6297323421"/>
+  <nd ref="6297323422"/>
+  <nd ref="6297323423"/>
+  <nd ref="6297323424"/>
+  <nd ref="6297323412"/>
+  <nd ref="1054617740"/>
+  <nd ref="6297323414"/>
+  <nd ref="6297323413"/>
+  <nd ref="1054617865"/>
+  <nd ref="1054617758"/>
+  <tag k="designation" v="Jardin Ibn Zaidoun"/>
+  <tag k="leisure" v="park"/>
+  <tag k="name" v="Jardin Ibn Zaïdoun"/>
+  <tag k="source" v="Sign by park"/>
+ </way>
+ <way id="140183061" visible="true" version="3" changeset="67491809" timestamp="2019-02-23T11:46:25Z" user="Aboudrar Said" uid="2209556">
+  <nd ref="1535842529"/>
+  <nd ref="1535842525"/>
+  <nd ref="6297306601"/>
+  <nd ref="1535842531"/>
+  <nd ref="6297306608"/>
+  <nd ref="6297306598"/>
+  <nd ref="1535842517"/>
+  <nd ref="6297306612"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="140183325" visible="true" version="3" changeset="67491809" timestamp="2019-02-23T11:46:25Z" user="Aboudrar Said" uid="2209556">
+  <nd ref="6297306675"/>
+  <nd ref="6297306613"/>
+  <nd ref="1535849053"/>
+  <nd ref="1535849038"/>
+  <nd ref="1535849023"/>
+  <nd ref="6297306640"/>
+  <nd ref="1535849026"/>
+  <nd ref="1535849003"/>
+  <nd ref="6297306635"/>
+  <nd ref="1535849031"/>
+  <nd ref="6297306671"/>
+  <nd ref="1535849005"/>
+  <nd ref="1535849008"/>
+  <nd ref="1535849051"/>
+  <nd ref="6297306637"/>
+  <nd ref="1535849011"/>
+  <nd ref="6297306639"/>
+  <nd ref="1535849018"/>
+  <nd ref="1535849022"/>
+  <nd ref="1535849025"/>
+  <nd ref="1535849028"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="173937670" visible="true" version="4" changeset="158780886" timestamp="2024-11-05T14:10:53Z" user="Julien39" uid="195017">
+  <nd ref="1846844236"/>
+  <nd ref="6297323411"/>
+  <nd ref="6297323409"/>
+  <nd ref="6297323408"/>
+  <nd ref="6297323410"/>
+  <nd ref="6297323407"/>
+  <nd ref="6297323403"/>
+  <nd ref="6297323404"/>
+  <nd ref="6297323405"/>
+  <nd ref="6297323402"/>
+  <nd ref="1846844237"/>
+  <nd ref="1846844233"/>
+  <nd ref="1846844231"/>
+  <nd ref="6297323400"/>
+  <nd ref="6297323401"/>
+  <nd ref="6297323399"/>
+  <nd ref="1846844235"/>
+  <nd ref="1846844234"/>
+  <nd ref="6297323398"/>
+  <nd ref="6297323397"/>
+  <nd ref="1846844227"/>
+  <nd ref="1846844229"/>
+  <nd ref="1846844236"/>
+  <tag k="description" v="Le plus grand Jardin public d'Agadir"/>
+  <tag k="leisure" v="park"/>
+  <tag k="name" v="Jardin Talborjt"/>
+ </way>
+ <way id="180596058" visible="true" version="13" changeset="75242943" timestamp="2019-10-03T15:58:06Z" user="PrincipeReal" uid="9625540">
+  <nd ref="1054617752"/>
+  <nd ref="6297306726"/>
+  <nd ref="5150023496"/>
+  <nd ref="5150023506"/>
+  <nd ref="6297306636"/>
+  <nd ref="1535849028"/>
+  <nd ref="6297306612"/>
+  <nd ref="5654008297"/>
+  <nd ref="1054617769"/>
+  <nd ref="5654008299"/>
+  <nd ref="6847268984"/>
+  <nd ref="6847194048"/>
+  <nd ref="5918608236"/>
+  <nd ref="606944125"/>
+  <nd ref="1084038069"/>
+  <nd ref="6848088400"/>
+  <nd ref="5153644284"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="name" v="Avenue Président Kennedy"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="180596121" visible="true" version="20" changeset="169125607" timestamp="2025-07-18T19:31:13Z" user="OSMCowboy" uid="18256099">
+  <nd ref="6806281773"/>
+  <nd ref="6806281774"/>
+  <nd ref="1054617745"/>
+  <nd ref="5904209963"/>
+  <nd ref="6806281771"/>
+  <nd ref="6806281775"/>
+  <nd ref="6806281772"/>
+  <nd ref="6805819297"/>
+  <nd ref="6806281777"/>
+  <nd ref="6805819298"/>
+  <nd ref="6806281776"/>
+  <nd ref="6806209610"/>
+  <nd ref="6805819296"/>
+  <nd ref="6806209611"/>
+  <nd ref="6806209612"/>
+  <nd ref="6806209613"/>
+  <nd ref="6297306683"/>
+  <nd ref="6297306697"/>
+  <nd ref="6297306614"/>
+  <nd ref="1054617755"/>
+  <nd ref="6847067716"/>
+  <nd ref="1054617812"/>
+  <nd ref="6847067717"/>
+  <nd ref="6297306677"/>
+  <nd ref="1054617837"/>
+  <nd ref="6297306739"/>
+  <nd ref="6744940191"/>
+  <nd ref="6847067718"/>
+  <nd ref="1054617802"/>
+  <nd ref="6847067719"/>
+  <nd ref="1910170678"/>
+  <nd ref="6297306675"/>
+  <nd ref="5654008298"/>
+  <nd ref="1054617769"/>
+  <nd ref="5654008300"/>
+  <nd ref="6847067720"/>
+  <nd ref="9720146386"/>
+  <nd ref="6847067721"/>
+  <nd ref="1054617797"/>
+  <nd ref="6297306740"/>
+  <nd ref="1054617711"/>
+  <nd ref="6297306600"/>
+  <nd ref="13009712822"/>
+  <nd ref="1096358470"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lanes" v="2"/>
+  <tag k="name" v="Rue Ibn Batouta زنقة ابن بطوطة"/>
+  <tag k="name:ar" v="Rue Ibn Batouta زنقة ابن بطوطة"/>
+  <tag k="name:fr" v="Rue Ibn Batouta"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="711543139" visible="true" version="1" changeset="73086886" timestamp="2019-08-06T22:48:20Z" user="Aboudrar Said" uid="2209556">
+  <nd ref="6689844936"/>
+  <nd ref="6689844935"/>
+  <nd ref="6689844934"/>
+  <nd ref="6689844933"/>
+  <nd ref="6689844932"/>
+  <nd ref="6689844931"/>
+  <nd ref="6689844930"/>
+  <nd ref="6689844929"/>
+  <nd ref="6689844928"/>
+  <nd ref="6689844927"/>
+  <nd ref="6689844926"/>
+  <nd ref="6689844925"/>
+  <nd ref="6689844924"/>
+  <nd ref="6689844923"/>
+  <nd ref="6689844936"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="711543140" visible="true" version="1" changeset="73086886" timestamp="2019-08-06T22:48:20Z" user="Aboudrar Said" uid="2209556">
+  <nd ref="6689844940"/>
+  <nd ref="6689844939"/>
+  <nd ref="6689844938"/>
+  <nd ref="6689844937"/>
+  <nd ref="6689844940"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="712103243" visible="true" version="1" changeset="73165636" timestamp="2019-08-08T17:45:04Z" user="Aboudrar Said" uid="2209556">
+  <nd ref="6695501307"/>
+  <nd ref="6695501306"/>
+  <nd ref="6695501305"/>
+  <nd ref="6695501304"/>
+  <nd ref="6695501307"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="712103244" visible="true" version="1" changeset="73165636" timestamp="2019-08-08T17:45:04Z" user="Aboudrar Said" uid="2209556">
+  <nd ref="6695501321"/>
+  <nd ref="6695501320"/>
+  <nd ref="6695501319"/>
+  <nd ref="6695501318"/>
+  <nd ref="6695501317"/>
+  <nd ref="6695501316"/>
+  <nd ref="6695501315"/>
+  <nd ref="6695501314"/>
+  <nd ref="6695501313"/>
+  <nd ref="6695501312"/>
+  <nd ref="6695501311"/>
+  <nd ref="6695501310"/>
+  <nd ref="6695501309"/>
+  <nd ref="6695501308"/>
+  <nd ref="6695501321"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="712103245" visible="true" version="1" changeset="73165636" timestamp="2019-08-08T17:45:04Z" user="Aboudrar Said" uid="2209556">
+  <nd ref="6695501325"/>
+  <nd ref="6695501324"/>
+  <nd ref="6695501323"/>
+  <nd ref="6695501322"/>
+  <nd ref="6695501325"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <relation id="6260689" visible="true" version="57" changeset="174315783" timestamp="2025-11-07T04:31:32Z" user="MargoDesert" uid="22557285">
+  <member type="node" ref="6265662897" role="stop"/>
+  <member type="node" ref="6265662895" role="stop"/>
+  <member type="node" ref="6265662893" role="stop"/>
+  <member type="node" ref="6265662904" role="platform"/>
+  <member type="node" ref="6265297742" role="platform"/>
+  <member type="node" ref="6265662937" role="platform"/>
+  <member type="node" ref="6265662925" role="platform"/>
+  <member type="node" ref="6265662898" role="platform"/>
+  <member type="node" ref="6265662911" role="platform"/>
+  <member type="node" ref="6265662935" role="platform"/>
+  <member type="node" ref="6265662903" role="platform"/>
+  <member type="node" ref="6265297738" role="platform"/>
+  <member type="node" ref="6265662916" role="platform"/>
+  <member type="node" ref="6265662931" role="platform"/>
+  <member type="node" ref="6265662929" role="platform"/>
+  <member type="node" ref="6265662908" role="bus_stop"/>
+  <member type="node" ref="6265297739" role="platform"/>
+  <member type="node" ref="6255423589" role="platform"/>
+  <member type="node" ref="6264756313" role="platform"/>
+  <member type="node" ref="6265662927" role="platform"/>
+  <member type="node" ref="6265662907" role="platform"/>
+  <member type="node" ref="6255423595" role="platform"/>
+  <member type="node" ref="6264756311" role="platform"/>
+  <member type="node" ref="6265662915" role="platform"/>
+  <member type="node" ref="6265662913" role="platform"/>
+  <member type="node" ref="6265662933" role="platform"/>
+  <member type="node" ref="6265662922" role="platform"/>
+  <member type="node" ref="6265662921" role="platform"/>
+  <member type="node" ref="6265662900" role="platform"/>
+  <member type="node" ref="6255423591" role="platform"/>
+  <member type="node" ref="6265662919" role="platform"/>
+  <member type="node" ref="6265662940" role="platform"/>
+  <member type="node" ref="6265662901" role="platform"/>
+  <member type="node" ref="6265662942" role="platform"/>
+  <member type="node" ref="6265662938" role="platform"/>
+  <member type="node" ref="6265662944" role="platform"/>
+  <member type="way" ref="93505173" role=""/>
+  <member type="way" ref="29238324" role=""/>
+  <member type="way" ref="28805341" role=""/>
+  <member type="way" ref="665279294" role=""/>
+  <member type="way" ref="49212897" role=""/>
+  <member type="way" ref="249208137" role=""/>
+  <member type="way" ref="665287360" role=""/>
+  <member type="way" ref="28805334" role=""/>
+  <member type="way" ref="530813733" role=""/>
+  <member type="way" ref="440316493" role=""/>
+  <member type="way" ref="666195770" role=""/>
+  <member type="way" ref="666212795" role=""/>
+  <member type="way" ref="180596058" role=""/>
+  <member type="way" ref="144831990" role=""/>
+  <member type="way" ref="420643287" role=""/>
+  <member type="way" ref="314679289" role=""/>
+  <member type="way" ref="511436013" role=""/>
+  <member type="way" ref="666447173" role=""/>
+  <member type="way" ref="733333389" role=""/>
+  <member type="way" ref="733333388" role=""/>
+  <member type="way" ref="316804152" role=""/>
+  <member type="way" ref="1256412979" role=""/>
+  <member type="way" ref="421082774" role=""/>
+  <member type="way" ref="1291732364" role=""/>
+  <member type="way" ref="1256412978" role=""/>
+  <member type="way" ref="1291732365" role=""/>
+  <member type="way" ref="28804670" role=""/>
+  <member type="way" ref="421290458" role=""/>
+  <member type="way" ref="421290459" role=""/>
+  <member type="way" ref="665292439" role=""/>
+  <member type="way" ref="665292440" role=""/>
+  <member type="way" ref="666212790" role=""/>
+  <member type="way" ref="173540022" role=""/>
+  <member type="way" ref="173540020" role=""/>
+  <member type="way" ref="173540014" role=""/>
+  <member type="way" ref="173540023" role=""/>
+  <member type="way" ref="173540019" role=""/>
+  <member type="way" ref="666212806" role=""/>
+  <member type="way" ref="591897762" role=""/>
+  <member type="way" ref="29238606" role=""/>
+  <member type="way" ref="666212792" role=""/>
+  <member type="way" ref="665373143" role=""/>
+  <member type="way" ref="665373145" role=""/>
+  <member type="way" ref="29238979" role=""/>
+  <member type="way" ref="1444463794" role=""/>
+  <member type="way" ref="666212809" role=""/>
+  <member type="way" ref="1444463798" role=""/>
+  <member type="way" ref="29238988" role=""/>
+  <member type="way" ref="1428799419" role=""/>
+  <member type="way" ref="1448117514" role=""/>
+  <member type="way" ref="591033277" role=""/>
+  <member type="way" ref="1428799439" role=""/>
+  <member type="way" ref="1122298658" role=""/>
+  <member type="way" ref="1428799437" role=""/>
+  <member type="way" ref="1122298659" role=""/>
+  <member type="way" ref="263634965" role=""/>
+  <member type="way" ref="666212815" role=""/>
+  <member type="way" ref="588183830" role=""/>
+  <member type="way" ref="93604583" role=""/>
+  <member type="way" ref="666212824" role=""/>
+  <member type="way" ref="314292038" role=""/>
+  <member type="way" ref="666286050" role=""/>
+  <member type="way" ref="314292006" role=""/>
+  <member type="way" ref="666286051" role=""/>
+  <member type="way" ref="509609762" role=""/>
+  <member type="way" ref="421290452" role=""/>
+  <member type="way" ref="665292435" role=""/>
+  <member type="way" ref="665292433" role=""/>
+  <member type="way" ref="367908642" role=""/>
+  <member type="way" ref="665292436" role=""/>
+  <member type="way" ref="665292438" role=""/>
+  <member type="way" ref="666212827" role=""/>
+  <member type="way" ref="251405424" role=""/>
+  <member type="way" ref="737385670" role=""/>
+  <member type="way" ref="590868149" role=""/>
+  <member type="way" ref="590869784" role=""/>
+  <member type="way" ref="314292001" role=""/>
+  <member type="way" ref="590869785" role=""/>
+  <member type="way" ref="314292000" role=""/>
+  <member type="way" ref="251405387" role=""/>
+  <member type="way" ref="590868160" role=""/>
+  <member type="way" ref="590869787" role=""/>
+  <member type="way" ref="591017592" role=""/>
+  <member type="way" ref="589051642" role=""/>
+  <member type="way" ref="414787960" role=""/>
+  <member type="way" ref="414421640" role=""/>
+  <member type="way" ref="666212829" role=""/>
+  <member type="way" ref="589051654" role=""/>
+  <member type="way" ref="412936368" role=""/>
+  <tag k="from" v="Drargua"/>
+  <tag k="name" v="Bus 5: Drargua - Wilaya d'Agadir"/>
+  <tag k="name:fr" v="Bus 5: Drargua - Wilaya d'Agadir"/>
+  <tag k="network" v="ALSA Agadir"/>
+  <tag k="network:wikidata" v="Q114707454"/>
+  <tag k="operator" v="ALSA"/>
+  <tag k="public_transport:version" v="2"/>
+  <tag k="ref" v="5"/>
+  <tag k="route" v="bus"/>
+  <tag k="source" v="http://www.alsa.ma/"/>
+  <tag k="to" v="Wilaya d'Agadir"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="6813400" visible="true" version="15" changeset="182194222" timestamp="2026-05-04T09:06:31Z" user="DoubleA" uid="1198074">
+  <member type="relation" ref="7428839" role=""/>
+  <member type="relation" ref="6251925" role=""/>
+  <member type="relation" ref="7428737" role=""/>
+  <member type="relation" ref="6257910" role=""/>
+  <member type="relation" ref="9256705" role=""/>
+  <member type="relation" ref="6258181" role=""/>
+  <member type="relation" ref="6260633" role=""/>
+  <member type="relation" ref="9256765" role=""/>
+  <member type="relation" ref="6260689" role=""/>
+  <member type="relation" ref="9256768" role=""/>
+  <member type="relation" ref="9257116" role=""/>
+  <member type="relation" ref="6254814" role=""/>
+  <member type="relation" ref="6260697" role=""/>
+  <member type="relation" ref="9257712" role=""/>
+  <member type="relation" ref="6258211" role=""/>
+  <member type="relation" ref="9257787" role=""/>
+  <member type="relation" ref="9257881" role=""/>
+  <member type="relation" ref="6260892" role=""/>
+  <member type="relation" ref="6260913" role=""/>
+  <member type="relation" ref="9257918" role=""/>
+  <member type="relation" ref="6260965" role=""/>
+  <member type="relation" ref="9258022" role=""/>
+  <member type="relation" ref="9258159" role=""/>
+  <member type="relation" ref="6257712" role=""/>
+  <member type="relation" ref="9258237" role=""/>
+  <member type="relation" ref="6261120" role=""/>
+  <member type="relation" ref="9258299" role=""/>
+  <member type="relation" ref="6266906" role=""/>
+  <member type="relation" ref="6261088" role=""/>
+  <member type="relation" ref="9258360" role=""/>
+  <member type="relation" ref="9258286" role=""/>
+  <member type="relation" ref="9243743" role=""/>
+  <member type="relation" ref="6267034" role=""/>
+  <member type="relation" ref="9258393" role=""/>
+  <member type="relation" ref="9258435" role=""/>
+  <member type="relation" ref="6256278" role=""/>
+  <member type="relation" ref="6266989" role=""/>
+  <member type="relation" ref="9258473" role=""/>
+  <member type="relation" ref="9244132" role=""/>
+  <member type="relation" ref="6267423" role=""/>
+  <member type="relation" ref="9262812" role=""/>
+  <member type="relation" ref="6267424" role=""/>
+  <member type="relation" ref="9263053" role=""/>
+  <member type="relation" ref="6267425" role=""/>
+  <member type="relation" ref="9265483" role=""/>
+  <member type="relation" ref="6263462" role=""/>
+  <member type="relation" ref="9265547" role=""/>
+  <member type="relation" ref="6263536" role=""/>
+  <member type="relation" ref="9266103" role=""/>
+  <member type="relation" ref="6263667" role=""/>
+  <member type="relation" ref="9266269" role=""/>
+  <member type="relation" ref="6267341" role=""/>
+  <member type="relation" ref="9270001" role=""/>
+  <member type="relation" ref="6267331" role=""/>
+  <member type="relation" ref="9287777" role=""/>
+  <member type="relation" ref="9287545" role=""/>
+  <member type="relation" ref="6267035" role=""/>
+  <member type="relation" ref="9287624" role=""/>
+  <member type="relation" ref="6267332" role=""/>
+  <member type="relation" ref="6267333" role=""/>
+  <member type="relation" ref="7413439" role=""/>
+  <member type="relation" ref="7413514" role=""/>
+  <member type="relation" ref="6267334" role=""/>
+  <member type="relation" ref="9287882" role=""/>
+  <member type="relation" ref="6256156" role=""/>
+  <member type="relation" ref="9287881" role=""/>
+  <member type="relation" ref="6254255" role=""/>
+  <member type="relation" ref="9287880" role=""/>
+  <member type="relation" ref="9244137" role=""/>
+  <tag k="name" v="ALSA Agadir"/>
+  <tag k="network" v="ALSA Agadir"/>
+  <tag k="network:wikidata" v="Q114707454"/>
+  <tag k="operator" v="ALSA"/>
+  <tag k="route_master" v="bus"/>
+  <tag k="type" v="route_master"/>
+ </relation>
+ <relation id="9256768" visible="true" version="19" changeset="173784179" timestamp="2025-10-26T08:59:42Z" user="Merna_mahmoud" uid="15567198">
+  <member type="node" ref="6265662905" role="platform"/>
+  <member type="node" ref="6265297741" role="platform"/>
+  <member type="node" ref="6265662936" role="platform"/>
+  <member type="node" ref="6265662924" role="platform"/>
+  <member type="node" ref="6265662910" role="platform"/>
+  <member type="node" ref="6265662934" role="platform"/>
+  <member type="node" ref="6265662902" role="platform"/>
+  <member type="node" ref="4795271921" role="platform"/>
+  <member type="node" ref="6265662917" role="platform"/>
+  <member type="node" ref="6265662909" role="platform"/>
+  <member type="node" ref="6265662928" role="platform"/>
+  <member type="node" ref="6265662930" role="platform"/>
+  <member type="node" ref="6265297740" role="platform"/>
+  <member type="node" ref="6264756314" role="platform"/>
+  <member type="node" ref="6265662926" role="platform"/>
+  <member type="node" ref="6265662906" role="platform"/>
+  <member type="node" ref="6255423595" role="platform"/>
+  <member type="node" ref="6264756312" role="platform"/>
+  <member type="node" ref="6265662896" role="platform"/>
+  <member type="node" ref="6265662914" role="platform"/>
+  <member type="node" ref="6265662912" role="platform"/>
+  <member type="node" ref="6265662932" role="platform"/>
+  <member type="node" ref="6265662923" role="platform"/>
+  <member type="node" ref="6265662899" role="platform"/>
+  <member type="node" ref="6265662920" role="platform"/>
+  <member type="node" ref="6265662918" role="platform"/>
+  <member type="node" ref="6265662939" role="platform"/>
+  <member type="node" ref="6265662892" role="platform"/>
+  <member type="node" ref="6265662941" role="platform"/>
+  <member type="node" ref="6265662894" role="platform"/>
+  <member type="way" ref="668026304" role=""/>
+  <member type="way" ref="665279291" role=""/>
+  <member type="way" ref="28806089" role=""/>
+  <member type="way" ref="665287360" role=""/>
+  <member type="way" ref="28805334" role=""/>
+  <member type="way" ref="666212793" role=""/>
+  <member type="way" ref="440316493" role=""/>
+  <member type="way" ref="666212794" role=""/>
+  <member type="way" ref="530813729" role=""/>
+  <member type="way" ref="180596058" role=""/>
+  <member type="way" ref="144831990" role=""/>
+  <member type="way" ref="420643287" role=""/>
+  <member type="way" ref="314679289" role=""/>
+  <member type="way" ref="665317708" role=""/>
+  <member type="way" ref="666447173" role=""/>
+  <member type="way" ref="730266183" role=""/>
+  <member type="way" ref="733333387" role=""/>
+  <member type="way" ref="316804152" role=""/>
+  <member type="way" ref="1256412979" role=""/>
+  <member type="way" ref="1291732365" role=""/>
+  <member type="way" ref="1256412978" role=""/>
+  <member type="way" ref="421082774" role=""/>
+  <member type="way" ref="1291732364" role=""/>
+  <member type="way" ref="28804670" role=""/>
+  <member type="way" ref="421290458" role=""/>
+  <member type="way" ref="421290459" role=""/>
+  <member type="way" ref="665292441" role=""/>
+  <member type="way" ref="666212798" role=""/>
+  <member type="way" ref="173540029" role=""/>
+  <member type="way" ref="666212801" role=""/>
+  <member type="way" ref="173540015" role=""/>
+  <member type="way" ref="666212804" role=""/>
+  <member type="way" ref="173540016" role=""/>
+  <member type="way" ref="262630010" role=""/>
+  <member type="way" ref="1444405306" role=""/>
+  <member type="way" ref="1444405305" role=""/>
+  <member type="way" ref="49167666" role=""/>
+  <member type="way" ref="591040056" role=""/>
+  <member type="way" ref="586658223" role=""/>
+  <member type="way" ref="1444452074" role=""/>
+  <member type="way" ref="666212808" role=""/>
+  <member type="way" ref="666195793" role=""/>
+  <member type="way" ref="666195794" role=""/>
+  <member type="way" ref="1444452070" role=""/>
+  <member type="way" ref="29238965" role=""/>
+  <member type="way" ref="665373139" role=""/>
+  <member type="way" ref="665373137" role=""/>
+  <member type="way" ref="666212810" role=""/>
+  <member type="way" ref="1428799420" role=""/>
+  <member type="way" ref="29238986" role=""/>
+  <member type="way" ref="1428799438" role=""/>
+  <member type="way" ref="1122298661" role=""/>
+  <member type="way" ref="1122298660" role=""/>
+  <member type="way" ref="1428799436" role=""/>
+  <member type="way" ref="93604589" role=""/>
+  <member type="way" ref="591033278" role=""/>
+  <member type="way" ref="263634954" role=""/>
+  <member type="way" ref="263634966" role=""/>
+  <member type="way" ref="156403647" role=""/>
+  <member type="way" ref="666212822" role=""/>
+  <member type="way" ref="666212821" role=""/>
+  <member type="way" ref="666212820" role=""/>
+  <member type="way" ref="666212826" role=""/>
+  <member type="way" ref="666212825" role=""/>
+  <member type="way" ref="172500890" role=""/>
+  <member type="way" ref="666212818" role=""/>
+  <member type="way" ref="421290456" role=""/>
+  <member type="way" ref="509609761" role=""/>
+  <member type="way" ref="665292434" role=""/>
+  <member type="way" ref="367908642" role=""/>
+  <member type="way" ref="665292436" role=""/>
+  <member type="way" ref="665292438" role=""/>
+  <member type="way" ref="251405340" role=""/>
+  <member type="way" ref="591017591" role=""/>
+  <member type="way" ref="590868150" role=""/>
+  <member type="way" ref="591020286" role=""/>
+  <member type="way" ref="173540010" role=""/>
+  <member type="way" ref="709193713" role=""/>
+  <member type="way" ref="74665657" role=""/>
+  <member type="way" ref="314291997" role=""/>
+  <member type="way" ref="314292002" role=""/>
+  <member type="way" ref="590869788" role=""/>
+  <member type="way" ref="590868152" role=""/>
+  <member type="way" ref="590868153" role=""/>
+  <member type="way" ref="590869786" role=""/>
+  <member type="way" ref="414421638" role=""/>
+  <member type="way" ref="414787960" role=""/>
+  <member type="way" ref="93647299" role=""/>
+  <member type="way" ref="666255690" role=""/>
+  <member type="way" ref="666255689" role=""/>
+  <member type="way" ref="396565288" role=""/>
+  <member type="way" ref="589051655" role=""/>
+  <member type="way" ref="412936368" role=""/>
+  <tag k="from" v="Wilaya d'Agadir"/>
+  <tag k="name" v="Bus 5: Wilaya d'Agadir - Drargua"/>
+  <tag k="name:fr" v="Bus 5: Wilaya d'Agadir - Drargua"/>
+  <tag k="network" v="ALSA Agadir"/>
+  <tag k="network:wikidata" v="Q114707454"/>
+  <tag k="operator" v="ALSA"/>
+  <tag k="public_transport:version" v="2"/>
+  <tag k="ref" v="5"/>
+  <tag k="route" v="bus"/>
+  <tag k="source" v="http://www.alsa.ma/"/>
+  <tag k="to" v="Drargua"/>
+  <tag k="type" v="route"/>
+ </relation>
+</osm>

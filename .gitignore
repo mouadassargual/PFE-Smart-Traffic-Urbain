@@ -1,24 +1,21 @@
-# Modèles & poids
-*.onnx
-*.pt
-models/weights/
-
-# Python
+# Environnement Python
+venv/
 __pycache__/
 *.pyc
+*.pyo
 .env
 
-# Vidéos (trop lourdes)
-*.mp4
-*.MP4
-Videos Drone/
+# Modèles lourds (trop grands pour GitHub)
+models_rpi/*.onnx
+dataset_v2/
+
+# Vidéos
 data/videos/
+Videos\ Drone/
 
-# Archives & datasets bruts
-*.zip
-/dataset_v2
-/dataset_v1
-
-# macOS
+# Fichiers système
 .DS_Store
-**/.DS_Store
+*.log
+
+# Dossiers cachés
+.git/
