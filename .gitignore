@@ -23,3 +23,9 @@ results/
 
 # SUMO fichiers générés
 *.net.xml
+models_rpi/
+data/
+*.mp4
+*.avi
+*.onnx
+*.pt
