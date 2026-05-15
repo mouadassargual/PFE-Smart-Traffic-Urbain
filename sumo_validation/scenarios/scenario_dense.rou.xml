@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Scénario Dense Nord : heure de pointe
+    25 véhicules Nord, arrivée en rafale (1 toutes les 3s)
+    Attendu MDP : Phase NS / 45s → AWT réduit significativement
+-->
+<routes>
+    <vType id="car"   length="4.5" maxSpeed="13.89" accel="2.6" decel="4.5" minGap="2.5"/>
+    <vType id="bus"   length="12.0" maxSpeed="11.11" accel="1.2" decel="3.0" minGap="3.0"/>
+    <vType id="truck" length="8.0"  maxSpeed="11.11" accel="1.0" decel="3.0" minGap="3.0"/>
+
+    <route id="N_S" edges="N_IN S_OUT"/>
+    <route id="N_E" edges="N_IN E_OUT"/>
+    <route id="N_W" edges="N_IN W_OUT"/>
+    <route id="S_N" edges="S_IN N_OUT"/>
+    <route id="E_W" edges="E_IN W_OUT"/>
+    <route id="W_E" edges="W_IN E_OUT"/>
+
+    <!-- NORD : 25 véhicules en rafale (heure de pointe) -->
+    <vehicle id="n0"  type="car"   route="N_S" depart="1"/>
+    <vehicle id="n1"  type="car"   route="N_S" depart="3"/>
+    <vehicle id="n2"  type="car"   route="N_E" depart="5"/>
+    <vehicle id="n3"  type="bus"   route="N_S" depart="7"/>
+    <vehicle id="n4"  type="car"   route="N_S" depart="9"/>
+    <vehicle id="n5"  type="car"   route="N_W" depart="11"/>
+    <vehicle id="n6"  type="truck" route="N_S" depart="13"/>
+    <vehicle id="n7"  type="car"   route="N_S" depart="15"/>
+    <vehicle id="n8"  type="car"   route="N_E" depart="17"/>
+    <vehicle id="n9"  type="car"   route="N_S" depart="19"/>
+    <vehicle id="n10" type="bus"   route="N_S" depart="21"/>
+    <vehicle id="n11" type="car"   route="N_W" depart="23"/>
+    <vehicle id="n12" type="car"   route="N_S" depart="25"/>
+    <vehicle id="n13" type="car"   route="N_E" depart="27"/>
+    <vehicle id="n14" type="truck" route="N_S" depart="29"/>
+    <vehicle id="n15" type="car"   route="N_S" depart="60"/>
+    <vehicle id="n16" type="car"   route="N_S" depart="63"/>
+    <vehicle id="n17" type="car"   route="N_E" depart="66"/>
+    <vehicle id="n18" type="bus"   route="N_S" depart="69"/>
+    <vehicle id="n19" type="car"   route="N_S" depart="72"/>
+    <vehicle id="n20" type="car"   route="N_W" depart="90"/>
+    <vehicle id="n21" type="car"   route="N_S" depart="93"/>
+    <vehicle id="n22" type="car"   route="N_S" depart="96"/>
+    <vehicle id="n23" type="bus"   route="N_S" depart="99"/>
+    <vehicle id="n24" type="car"   route="N_E" depart="102"/>
+
+    <!-- SUD : 5 véhicules (flux faible) -->
+    <vehicle id="s0" type="car" route="S_N" depart="2"/>
+    <vehicle id="s1" type="car" route="S_N" depart="35"/>
+    <vehicle id="s2" type="car" route="S_N" depart="70"/>
+    <vehicle id="s3" type="car" route="S_N" depart="105"/>
+    <vehicle id="s4" type="car" route="S_N" depart="140"/>
+
+    <!-- EST : 4 véhicules -->
+    <vehicle id="e0" type="car" route="E_W" depart="4"/>
+    <vehicle id="e1" type="car" route="E_W" depart="40"/>
+    <vehicle id="e2" type="bus" route="E_W" depart="80"/>
+    <vehicle id="e3" type="car" route="E_W" depart="120"/>
+
+    <!-- OUEST : 4 véhicules -->
+    <vehicle id="w0" type="car" route="W_E" depart="8"/>
+    <vehicle id="w1" type="car" route="W_E" depart="45"/>
+    <vehicle id="w2" type="car" route="W_E" depart="85"/>
+    <vehicle id="w3" type="car" route="W_E" depart="125"/>
+</routes>

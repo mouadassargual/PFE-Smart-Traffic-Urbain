@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Scénario Urgence : ambulance + trafic actif sur toutes branches
+    Ambulance arrive à t=25s par l'Est pendant trafic chargé
+    Attendu MDP : Emergency immédiatement → AWT ambulance = 0
+-->
+<routes>
+    <vType id="car"       length="4.5" maxSpeed="13.89" accel="2.6" decel="4.5" minGap="2.5"/>
+    <vType id="bus"       length="12.0" maxSpeed="11.11" accel="1.2" decel="3.0"/>
+    <vType id="emergency" length="5.5"  maxSpeed="16.67" accel="3.5" decel="5.0"
+                          color="255,0,0" minGap="1.0"/>
+
+    <route id="N_S" edges="N_IN S_OUT"/>
+    <route id="S_N" edges="S_IN N_OUT"/>
+    <route id="E_W" edges="E_IN W_OUT"/>
+    <route id="W_E" edges="W_IN E_OUT"/>
+
+    <!-- Trafic fond NS chargé -->
+    <vehicle id="n0" type="car" route="N_S" depart="1"/>
+    <vehicle id="n1" type="car" route="N_S" depart="4"/>
+    <vehicle id="n2" type="car" route="N_S" depart="8"/>
+    <vehicle id="n3" type="bus" route="N_S" depart="12"/>
+    <vehicle id="n4" type="car" route="N_S" depart="16"/>
+    <vehicle id="n5" type="car" route="N_S" depart="20"/>
+    <vehicle id="n6" type="car" route="N_S" depart="50"/>
+    <vehicle id="n7" type="car" route="N_S" depart="54"/>
+
+    <vehicle id="s0" type="car" route="S_N" depart="3"/>
+    <vehicle id="s1" type="car" route="S_N" depart="9"/>
+    <vehicle id="s2" type="car" route="S_N" depart="15"/>
+    <vehicle id="s3" type="car" route="S_N" depart="52"/>
+
+    <!-- Trafic EW léger -->
+    <vehicle id="w0" type="car" route="W_E" depart="5"/>
+    <vehicle id="w1" type="car" route="W_E" depart="30"/>
+    <vehicle id="w2" type="car" route="W_E" depart="60"/>
+
+    <!-- AMBULANCE Est à t=25s (pendant rouge EW) -->
+    <vehicle id="AMBULANCE" type="emergency" route="E_W" depart="25"/>
+</routes>

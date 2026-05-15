@@ -2,20 +2,24 @@
 venv/
 __pycache__/
 *.pyc
-*.pyo
-.env
 
-# Modèles lourds (trop grands pour GitHub)
+# Modèles lourds (sur Drive/Kaggle)
 models_rpi/*.onnx
-dataset_v2/
+models_rpi/*.pt
+models_rpi/custom/*.pt
+
+# Garder le modèle custom ONNX
+!models_rpi/custom/yolo26n_best.onnx
 
 # Vidéos
 data/videos/
-Videos\ Drone/
+*.mp4
+*.avi
+*.mov
 
-# Fichiers système
-.DS_Store
-*.log
+# Résultats
+results/
+*.json
 
-# Dossiers cachés
-.git/
+# SUMO fichiers générés
+*.net.xml

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Scénario Équilibré : arrivées régulières et continues
+    ~6 véhicules par axe, répartis sur toute la simulation
+    Attendu MDP : alternance NS/EW efficace, AWT réduit
+-->
+<routes>
+    <vType id="car" length="4.5" maxSpeed="13.89" accel="2.6" decel="4.5" minGap="2.5"/>
+    <vType id="bus" length="12.0" maxSpeed="11.11" accel="1.2" decel="3.0" minGap="3.0"/>
+
+    <route id="N_S" edges="N_IN S_OUT"/>
+    <route id="S_N" edges="S_IN N_OUT"/>
+    <route id="E_W" edges="E_IN W_OUT"/>
+    <route id="W_E" edges="W_IN E_OUT"/>
+
+    <!-- NS : arrivées toutes les ~25s -->
+    <vehicle id="n0" type="car" route="N_S" depart="2"/>
+    <vehicle id="n1" type="car" route="N_S" depart="28"/>
+    <vehicle id="n2" type="bus" route="N_S" depart="55"/>
+    <vehicle id="n3" type="car" route="N_S" depart="82"/>
+    <vehicle id="n4" type="car" route="N_S" depart="110"/>
+    <vehicle id="n5" type="car" route="N_S" depart="140"/>
+
+    <vehicle id="s0" type="car" route="S_N" depart="5"/>
+    <vehicle id="s1" type="car" route="S_N" depart="32"/>
+    <vehicle id="s2" type="car" route="S_N" depart="60"/>
+    <vehicle id="s3" type="car" route="S_N" depart="88"/>
+    <vehicle id="s4" type="car" route="S_N" depart="115"/>
+    <vehicle id="s5" type="car" route="S_N" depart="145"/>
+
+    <!-- EW : arrivées toutes les ~25s (décalées de 10s vs NS) -->
+    <vehicle id="e0" type="car" route="E_W" depart="12"/>
+    <vehicle id="e1" type="car" route="E_W" depart="38"/>
+    <vehicle id="e2" type="bus" route="E_W" depart="65"/>
+    <vehicle id="e3" type="car" route="E_W" depart="92"/>
+    <vehicle id="e4" type="car" route="E_W" depart="120"/>
+    <vehicle id="e5" type="car" route="E_W" depart="150"/>
+
+    <vehicle id="w0" type="car" route="W_E" depart="8"/>
+    <vehicle id="w1" type="car" route="W_E" depart="35"/>
+    <vehicle id="w2" type="car" route="W_E" depart="62"/>
+    <vehicle id="w3" type="car" route="W_E" depart="90"/>
+    <vehicle id="w4" type="car" route="W_E" depart="118"/>
+    <vehicle id="w5" type="car" route="W_E" depart="148"/>
+</routes>
