@@ -3,29 +3,21 @@ venv/
 __pycache__/
 *.pyc
 
-# Modèles lourds (sur Drive/Kaggle)
-models_rpi/*.onnx
+# Modeles lourds
 models_rpi/*.pt
 models_rpi/custom/*.pt
+models_rpi/*.onnx
+models_rpi/custom/*.onnx
 
-# Garder le modèle custom ONNX
-!models_rpi/custom/yolo26n_best.onnx
-
-# Vidéos
+# Videos
 data/videos/
 *.mp4
 *.avi
 *.mov
 
-# Résultats
+# Resultats
 results/
 *.json
 
-# SUMO fichiers générés
+# SUMO fichiers generes
 *.net.xml
-models_rpi/
-data/
-*.mp4
-*.avi
-*.onnx
-*.pt
