@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edges>
+    <edge id="N_IN"  from="NORTH"  to="CENTER" numLanes="2" speed="13.89"/>
+    <edge id="S_IN"  from="SOUTH"  to="CENTER" numLanes="2" speed="13.89"/>
+    <edge id="E_IN"  from="EAST"   to="CENTER" numLanes="2" speed="13.89"/>
+    <edge id="W_IN"  from="WEST"   to="CENTER" numLanes="2" speed="13.89"/>
+    <edge id="N_OUT" from="CENTER" to="NORTH"  numLanes="2" speed="13.89"/>
+    <edge id="S_OUT" from="CENTER" to="SOUTH"  numLanes="2" speed="13.89"/>
+    <edge id="E_OUT" from="CENTER" to="EAST"   numLanes="2" speed="13.89"/>
+    <edge id="W_OUT" from="CENTER" to="WEST"   numLanes="2" speed="13.89"/>
+</edges>
