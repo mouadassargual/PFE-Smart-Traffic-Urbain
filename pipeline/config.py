@@ -101,16 +101,19 @@ COLORS = {
 }
 
 # ── Validation au démarrage ───────────────────────────────────
-def validate_config():
+def validate_config(source=None, model=None):
     """Vérifie que tous les fichiers nécessaires existent."""
     errors = []
+    
+    check_model = model if model else MODEL_PATH
+    check_source = source if source is not None else VIDEO_SOURCE
 
-    if not os.path.exists(MODEL_PATH):
-        errors.append(f"Modèle non trouvé : {MODEL_PATH}")
+    if not os.path.exists(check_model):
+        errors.append(f"Modèle non trouvé : {check_model}")
 
-    if isinstance(VIDEO_SOURCE, str):
-        if not os.path.exists(VIDEO_SOURCE):
-            errors.append(f"Vidéo non trouvée : {VIDEO_SOURCE}")
+    if isinstance(check_source, str) and check_source != "0":
+        if not os.path.exists(check_source):
+            errors.append(f"Vidéo non trouvée : {check_source}")
 
     if errors:
         for e in errors:
@@ -119,8 +122,8 @@ def validate_config():
 
     print(f"✅ Config validée")
     print(f"   Plateforme : {'Raspberry Pi 5' if IS_RPI else 'Mac/PC'}")
-    print(f"   Modèle     : {os.path.basename(MODEL_PATH)}")
-    print(f"   Source     : {VIDEO_SOURCE}")
+    print(f"   Modèle     : {os.path.basename(check_model)}")
+    print(f"   Source     : {check_source}")
     return True
 
 if __name__ == '__main__':
